@@ -48,3 +48,6 @@ Desktop.ini
 
 # VS 2015 folder
 .vs
+
+# Tests output
+TestResults
